@@ -23,5 +23,4 @@ git clone https://github.com/wailsamjouni/ba_trees.git
 * Create an object of the class Overload with the required parameters
 * Call the method compute_paths with the desired parameter by setting the paramerter "version" with one of the algorithms (edps, onetree, multitree)
 * The object Overload can be called also with other methods in order to perform some actions on the graph
-
-For experiments and tests one can generate random graphs like Erdős–Rényi (by using, for example, the corresponding methods provided by NetworkX)
+###### For experiments and tests one can generate random graphs like Erdős–Rényi (by using, for example, the corresponding methods provided by NetworkX)
